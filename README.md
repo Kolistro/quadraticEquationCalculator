@@ -1,4 +1,4 @@
-# quadraticEquationCalculator
+# QuadraticEquationCalculator
 Программа решает квадратные уравнения. 
 Ввод и вывод осуществляются одним из способов:
   1. Консоль
